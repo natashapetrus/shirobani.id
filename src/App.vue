@@ -1,8 +1,13 @@
 <template>
   <div style="display: flex; align-items: center; height: 100vh; width: 100%;">
     <div style="text-align: center; width: 100%;">
-      <img src="./assets/img/coming-soon.png" style="width: 300px;">
-      <br />
+      <img src="./assets/img/coming-soon.png" style="width: 300px;"><br />
+      <span>
+        For exciting news and updates,
+        <a href="https://instagram.com/shirobani.id" target="_blank">follow us on Instagram</a>
+        &#10084;
+      </span>
+      <br /><br />
       <img src="./assets/img/logo-transparent.png" style="width: 150px;">
     </div>
   </div>
