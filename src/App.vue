@@ -5,7 +5,7 @@
       <span>
         For exciting news and updates,
         <a href="https://instagram.com/shirobani.id" target="_blank">follow us on Instagram</a>
-        &heartsuit;
+        &#128420;
       </span>
       <br /><br />
       <img src="./assets/img/logo-transparent.png" style="width: 150px;">
