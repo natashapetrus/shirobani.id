@@ -1,7 +1,5 @@
 # shirobani.id
 
-This template should help get you started developing with Vue 3 in Vite.
-
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
@@ -38,6 +36,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+This will compile, minify files, and make them Production-ready. Output folder is currently set to `/docs`, as GitHub Pages is set to auto-deploy from this folder. Always remember to run this command prior to committing and pushing to `main` for automatic deployment.
 
 ### Lint with [ESLint](https://eslint.org/)
 
