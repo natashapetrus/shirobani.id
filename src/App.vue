@@ -1,9 +1,9 @@
 <template>
   <div style="display: flex; align-items: center; height: 100vh; width: 100%;">
     <div style="text-align: center; width: 100%;">
-      <span style="font-size: xxx-large;">COMING<br/>SOON!</span>
-      <br /><br />
-      <img src="./assets/img/logo-transparent.png" style="width: 150px; bottom: 0;">
+      <img src="./assets/img/coming-soon.png" style="width: 300px;">
+      <br />
+      <img src="./assets/img/logo-transparent.png" style="width: 150px;">
     </div>
   </div>
 </template>
